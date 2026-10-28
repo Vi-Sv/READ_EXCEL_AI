@@ -64,5 +64,4 @@ def regenerate_excel_from_json(json_file_path, output_xlsx_path):
                 
     wb.save(output_xlsx_path)
 
-# Пример выполнения регенерации во внутреннем буфере ИИ
-regenerate_excel_from_json('№2Д-206_DATA_FOR_AI.json', 'Зеркальная_Реплика_Листа.xlsx')
+
